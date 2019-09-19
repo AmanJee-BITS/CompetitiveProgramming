@@ -7,7 +7,7 @@ Try to read and understand the code instead of copying and pasting it directly.
 # Contributions
 *Suggestion or any changes are most welcome!*
 
-**How to contribute:
+**How to contribute:**
 
 1.Fork this repo.
 
